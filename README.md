@@ -6,6 +6,10 @@
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently studying Electrotechnical and Computer Engineering
 
+<br />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=madalenarb&theme=dark&hide_border=true&bg_color=0d1117)
+
 <!---
 madalenarb/madalenarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
