@@ -8,7 +8,7 @@
 
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=madalenarb&theme=dark&hide_border=true&bg_color=0d1117)
+![My Stats](https://github-readme-stats.vercel.app/api?username=madalenarb)
 
 <!---
 madalenarb/madalenarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
