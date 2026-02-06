@@ -6,7 +6,11 @@
 
   <br />
 
-  # Hi, I’m @madalenarb 👋
+  <div align="center">
+      <h1>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=44&duration=3000&color=FFB6C1&center=true&vCenter=true&width=480&lines=Hey..+I'm+Madalena;Welcome+to+my+Github;" alt="Typing SVG"/>
+      </h1>
+  </div>
   
   <p>
    🌱 Currently studying <b>Electrotechnical and Computer Engineering</b><br>
@@ -26,6 +30,5 @@
 
   <br /><br />
 
-  ![My Stats](https://github-readme-stats.vercel.app/api?username=madalenarb&theme=dark&hide_border=true&bg_color=0d1117&show_icons=true)
 
 </div>
